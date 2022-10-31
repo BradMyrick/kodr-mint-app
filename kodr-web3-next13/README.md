@@ -1,3 +1,7 @@
+# Interacting with with the ethereum blockchain on Next.js 13
+
+## I had to go down to pure ethers.js to get this to work and will build hooks up from there
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
